@@ -13,7 +13,7 @@ Steps Followed:
 Step 1: Data Reading and Data  Preprocesing
 
 Step 2: Checking for missing values and handling those missing values 
-  <br>The missing values in the model replaced using various techniques like mean, mode, median, KNN imputer etc<\br>
+  <br>The missing values in the model replaced using various techniques like mean, mode, median, KNN imputer etc
 
 Step 3: Data Analysis 
 The data was analysed to get most of the insights form the data, using pandas and matplotlib to visualize those.
