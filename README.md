@@ -23,5 +23,5 @@ Step 4: Data preparation for test and train
   * The data has been mpormalized so that there will not be outlies effect on the model.
   
 Step 5: Data Modeling and Validation
-  <br>We have used the Linear Regression to build the model.
+  <br>After trying with various models the final model is built using RandomForest and XGBoost model. Giving better resukts than other models.
   
