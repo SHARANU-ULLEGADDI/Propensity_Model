@@ -19,7 +19,7 @@ Step 3: Data Analysis
   <br>The data was analysed to get most of the insights form the data, using pandas and matplotlib to visualize those.
   
 Step 4: Data preparation for test and train
-  * The coloumns required for training were selected by seeing the crelation between the features and the selected features we split into training and test set using skleaarns train test split. 
+  * The coloumns required for training were selected by seeing the crelation between the features and the selected features we split into training and test set using sklearns train test split. 
   * The data has been mpormalized so that there will not be outlies effect on the model.
   
 Step 5: Data Modeling and Validation
