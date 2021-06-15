@@ -20,7 +20,7 @@ Step 3: Data Analysis
   
 Step 4: Data preparation for test and train
   * The coloumns required for training were selected by seeing the crelation between the features and the selected features we split into training and test set using sklearns train test split. 
-  * The data has been mpormalized so that there will not be outlies effect on the model.
+  * The data has been normalized so that the model builds faster and follows our assumtion in Traditional Machine Learning algorithms.
   
 Step 5: Data Modeling and Validation
   <br>After trying with various models the final model is built using RandomForest and XGBoost model. Giving better resukts than other models.
